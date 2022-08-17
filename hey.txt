@@ -1,10 +1,14 @@
 
-hai 
+hai
 hello
 how are you
 
 I'm fine, how about you??
 
+
 yeah i'm fine too
 
+
+
+yeah I'm fine
 
